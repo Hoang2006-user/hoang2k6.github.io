@@ -1,0 +1,10 @@
+body {
+    width: 960px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #fefefe;
+    background: #353535;
+}
+heading {
+    font-family: Arial, sans-serif;
+}
